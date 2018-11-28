@@ -1,0 +1,12 @@
+.on
+{
+  width: 50px;
+  background-color: #C0C0C0;
+  color: green;
+}
+.off
+{
+  width: 50px;
+  background-color: #000000;
+  color: red;
+}
